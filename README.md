@@ -17,4 +17,3 @@ workspace. I believe my branding conveys professionalism while not being necessa
 ![infographic](docs/Lo_infographic.png)
 ![Banner](visuals/LinkedInBanner.png)
 ![Post](visuals/LinkedInPost.png)
-![studytools](docs/aistudytools.md)
