@@ -9,4 +9,4 @@ Hello! I am William Lo, an incoming Second Year BSA student who has a passion fo
 
 ## 📁 Featured Projects
 
-![logo](../branding/logo.png)
+![logo](portfolio/branding/logo.png)
