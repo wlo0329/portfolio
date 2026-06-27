@@ -32,4 +32,4 @@
 * **Engine Used:** Canva Magic Media / DALL-E 3
 * **Visual Prompt:** `"A flat minimalist vector logo of a bright yellow Cavendish banana bunch intertwined with a clean, modern logistics delivery truck icon, solid teal background, professional flat design, isolated vector graphics"`
 
-![Logo](../branding/Lo%20infographic.png)
+![Logo](../branding/logo.png
